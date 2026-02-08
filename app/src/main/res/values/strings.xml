@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">ApkSizeExplorer</string>
+
+    <string name="app_list_screen_title">App List</string>
+    <string name="app_list_screen_loading_hint">Loading installed apps…</string>
+    <string name="app_list_screen_icon_description">App icon for the %1$s app</string>
+    <string name="app_list_screen_no_apps_installed">No apps found that match the criteria.</string>
+    <string name="app_list_screen_filter_description">Filter icon</string>
+
+    <string name="app_list_element_on_click_label">Click to extend %1$s value</string>
+    <string name="app_list_element_on_long_click_label">Long press to copy %1$s value to clipboard</string>
+    <string name="app_list_element_label_package">Package</string>
+    <string name="app_list_element_label_size">Size</string>
+    <string name="app_list_element_label_version">Version</string>
+
+    <string name="error_widget_description">Error widget</string>
+    <string name="error_widget_heading">An error occurred</string>
+
+    <string name="error_unknown_error">An unknown error occurred.</string>
+    <string name="error_package_not_found">The specified app could not be found.</string>
+    <string name="error_paging_logic">Could not load data.</string>
+
+    <string name="app_source_system_short">System</string>
+    <string name="app_source_play_store_short">Play Store</string>
+    <string name="app_source_third_party_short">Sideloaded</string>
+
+    <string name="search_component_icon_description">Search button icon</string>
+    <string name="search_component_clear_icon_description">Search clear icon icon</string>
+    <string name="search_component_hint">Search apps…</string>
+
+    <string name="scroll_to_top_button_description">Scroll to top button icon</string>
+
+    <string name="unknown_version">Unknown</string>
+
+</resources>
